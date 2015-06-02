@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CustomerTestData>
+  <CustomerID>ALFKI</CustomerID>
+  <PageNo>2</PageNo>
+  <PageSize>20</PageSize>
+</CustomerTestData>
